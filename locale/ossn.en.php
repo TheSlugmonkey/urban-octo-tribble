@@ -1,0 +1,1 @@
+<?php/** * Open Source Social Network * * @package   BigFarm * @author    Slugmonkey <slugmonkey@theslugmonkey.com> * @copyright 2022 TheSlugMonkey * @license   General Public Licence V3 * @link      https://www.gnu.org/licenses/gpl-3.0.en.html */$en = array(	'bigfarm' => 'BigFarm',	'com:ossn:bigfarm' => 'BigFarm',);ossn_register_languages('en', $en); 
